@@ -118,7 +118,7 @@ public class MenuHelper {
         addMenuItem(fileMenu, "New", view);
         addMenuItem(fileMenu, "Open", view);
         addMenuItem(fileMenu, "Save", view);
-        addMenuItem(fileMenu, "Save us", view);
+        addMenuItem(fileMenu, "Save as", view);
         fileMenu.addSeparator();
         addMenuItem(fileMenu, "Exit", view);
     }
